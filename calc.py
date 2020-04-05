@@ -15,5 +15,8 @@ def sub(x,y):
 
 if __name__ == '__main__':
     main()
+    print('connectivity Test in GIT')
 
-print('connectivity Test in GIT')
+print('Outer Calc says: ', __name__)
+
+
