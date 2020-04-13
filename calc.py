@@ -19,3 +19,4 @@ if __name__ == '__main__':
 
 print('Outer Calc says: ', __name__)
 print('Git push successful1')
+print('Git push successful2')
